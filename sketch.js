@@ -12,5 +12,5 @@ function setup() {
 
 	fill(0, 255, 0);
 	stroke(0, 255, 0);
-	ellipse(500, 500, 500, 500);
+	ellipse(500, 100, 500, 100);
 }
