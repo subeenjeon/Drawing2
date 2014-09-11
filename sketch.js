@@ -3,5 +3,9 @@ function setup() {
 	background(212, 239, 231);
 	noFill();
 
-	stroke(255);
+	stroke(255, 0, 0);
+	rect(50, 50, 50, 50);
+
+	stroke(0, 255, 0);
+	ellipse(100, 100, 100, 100);
 }
