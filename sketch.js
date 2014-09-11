@@ -9,4 +9,8 @@ function setup() {
 	fill(0, 255, 0);
 	stroke(0, 255, 0);
 	ellipse(100, 100, 100, 100);
+
+	fill(0, 255, 0);
+	stroke(0, 255, 0);
+	ellipse(500, 500, 500, 500);
 }
