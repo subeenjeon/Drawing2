@@ -4,7 +4,7 @@ function setup() {
 	noFill();
 
 	stroke(255, 0, 0);
-	rect(320, 320, 430, 320);
+	rect(210, 210, 210, 210);
 
 	stroke(0, 255, 0);
 	ellipse(100, 100, 100, 100);
